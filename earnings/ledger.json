@@ -5,7 +5,19 @@
   "total_costs_usd": 0.0,
   "net_usd": 0.0,
   "currency": "USD",
-  "entries": [],
-  "last_updated": "2026-07-28T18:30:00Z",
+  "entries": [
+    {
+      "id": "entry-0001",
+      "timestamp": "2026-07-29T01:31:58.732819+00:00",
+      "revenue_usd": 0.0,
+      "cost_usd": 0.0,
+      "net_usd": 0.0,
+      "source": "milestone",
+      "experiment": "0002",
+      "proof": "commit + products/hermes-revenue-strategist-pack-v0.1.zip",
+      "notes": "Autonomous release of first digital product (v0.1 Prompt Pack). Full pack + zip + launch assets completed and pushed with zero human creative input after initial request."
+    }
+  ],
+  "last_updated": "2026-07-29T01:31:58.732819+00:00",
   "notes": "Initial empty ledger. All future revenue and costs go here with proof references."
 }
