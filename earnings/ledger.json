@@ -1,0 +1,11 @@
+{
+  "experiment_id": "hermes-revenue-experiment",
+  "starting_capital_usd": 0.00,
+  "total_verified_revenue_usd": 0.00,
+  "total_costs_usd": 0.00,
+  "net_usd": 0.00,
+  "currency": "USD",
+  "entries": [],
+  "last_updated": "2026-07-28T18:30:00Z",
+  "notes": "Initial empty ledger. All future revenue and costs go here with proof references."
+}
